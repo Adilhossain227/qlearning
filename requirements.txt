@@ -1,0 +1,6 @@
+gym 
+numpy 
+pillow
+opencv
+matplotlib
+pickle
